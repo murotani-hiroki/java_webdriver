@@ -1,0 +1,189 @@
+2022-06-30 11:23:48.758[restartedMain][INFO ][com.mrtn.scraping.ScrapingApplication] Starting ScrapingApplication using Java 17.0.3 on macbook.local with PID 12634 (/Users/hmurotani/Documents/work/scraping/java_webdriver/bin/main started by hmurotani in /Users/hmurotani/Documents/work/scraping/java_webdriver)
+2022-06-30 11:23:48.763[restartedMain][INFO ][com.mrtn.scraping.ScrapingApplication] No active profile set, falling back to 1 default profile: "default"
+2022-06-30 11:23:48.817[restartedMain][INFO ][org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-30 11:23:48.817[restartedMain][INFO ][org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-30 11:23:49.686[restartedMain][INFO ][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+2022-06-30 11:23:49.695[restartedMain][INFO ][org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-30 11:23:49.695[restartedMain][INFO ][org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2022-06-30 11:23:49.695[restartedMain][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-06-30 11:23:49.896[restartedMain][INFO ][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2022-06-30 11:23:49.896[restartedMain][INFO ][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1079 ms
+2022-06-30 11:23:50.136[restartedMain][INFO ][org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2022-06-30 11:23:50.413[restartedMain][INFO ][org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2022-06-30 11:23:50.423[restartedMain][INFO ][org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-30 11:23:50.446[restartedMain][INFO ][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-30 11:23:50.460[restartedMain][INFO ][com.mrtn.scraping.ScrapingApplication] Started ScrapingApplication in 7.089 seconds (JVM running for 8.968)
+2022-06-30 11:49:17.069[restartedMain][INFO ][com.mrtn.scraping.ScrapingApplication] Starting ScrapingApplication using Java 17.0.3 on macbook.local with PID 13274 (/Users/hmurotani/Documents/work/scraping/java_webdriver/bin/main started by hmurotani in /Users/hmurotani/Documents/work/scraping/java_webdriver)
+2022-06-30 11:49:17.070[restartedMain][INFO ][com.mrtn.scraping.ScrapingApplication] No active profile set, falling back to 1 default profile: "default"
+2022-06-30 11:49:17.120[restartedMain][INFO ][org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-30 11:49:17.120[restartedMain][INFO ][org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-30 11:49:18.074[restartedMain][INFO ][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+2022-06-30 11:49:18.085[restartedMain][INFO ][org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-30 11:49:18.086[restartedMain][INFO ][org.apache.catalina.core.StandardService] Starting service [Tomcat]
+2022-06-30 11:49:18.086[restartedMain][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-06-30 11:49:18.229[restartedMain][INFO ][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+2022-06-30 11:49:18.229[restartedMain][INFO ][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1109 ms
+2022-06-30 11:49:18.459[restartedMain][INFO ][org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page template: index
+2022-06-30 11:49:18.653[restartedMain][INFO ][org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+2022-06-30 11:49:18.667[restartedMain][INFO ][org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-30 11:49:18.689[restartedMain][INFO ][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-30 11:49:18.714[restartedMain][INFO ][com.mrtn.scraping.ScrapingApplication] Started ScrapingApplication in 7.122 seconds (JVM running for 7.666)
+2022-06-30 11:49:26.573[http-nio-8080-exec-1][INFO ][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-30 11:49:26.573[http-nio-8080-exec-1][INFO ][org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+2022-06-30 11:49:26.574[http-nio-8080-exec-1][INFO ][org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+2022-06-30 11:49:33.335[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] --- getGoodsInfo start ---
+2022-06-30 11:49:33.336[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] --- getGoodsInfo start ---
+2022-06-30 11:49:39.817[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:49:39.877[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:49:39.975[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:49:39.992[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:49:45.763[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576423861
+2022-06-30 11:49:47.331[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576450331
+2022-06-30 11:49:48.150[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495432028
+2022-06-30 11:49:49.714[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576531597
+2022-06-30 11:49:49.887[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580652110471
+2022-06-30 11:49:51.679[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576555241
+2022-06-30 11:49:52.995[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495431670
+2022-06-30 11:49:54.497[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580652110983
+2022-06-30 11:49:55.404[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=
+2022-06-30 11:49:56.302[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580652110969
+2022-06-30 11:49:57.251[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576496582
+2022-06-30 11:49:57.697[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580652110976
+2022-06-30 11:49:59.334[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495432035
+2022-06-30 11:50:00.086[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576250252
+2022-06-30 11:50:01.147[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495431991
+2022-06-30 11:50:02.212[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576531597
+2022-06-30 11:50:04.513[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576452564
+2022-06-30 11:50:05.199[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4589449352674
+2022-06-30 11:50:06.287[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576501033
+2022-06-30 11:50:07.125[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4974019172149
+2022-06-30 11:50:07.880[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=
+2022-06-30 11:50:08.607[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495432011
+2022-06-30 11:50:10.873[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576501255
+2022-06-30 11:50:12.603[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4955014041418
+2022-06-30 11:50:13.271[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4974019172248
+2022-06-30 11:50:14.561[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576441513
+2022-06-30 11:50:15.476[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580341985335
+2022-06-30 11:50:16.449[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576186087
+2022-06-30 11:50:17.076[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4549980486191
+2022-06-30 11:50:18.305[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576419383
+2022-06-30 11:50:18.639[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580652110372
+2022-06-30 11:50:20.119[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=
+2022-06-30 11:50:20.522[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495431953
+2022-06-30 11:50:21.715[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4974305218773
+2022-06-30 11:50:22.571[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495431984
+2022-06-30 11:50:23.310[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=
+2022-06-30 11:50:24.193[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580652111560
+2022-06-30 11:50:24.912[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] ベストエクセル : janCode=4967576550727
+2022-06-30 11:50:26.060[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4571495431922
+2022-06-30 11:50:26.362[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:26.378[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:27.796[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] 総合通販PREMOA Yahoo!店 : janCode=4580652111508
+2022-06-30 11:50:28.965[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:28.981[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:29.528[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B07TLD5W4K
+2022-06-30 11:50:30.301[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:30.337[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:32.149[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09V12XMZW
+2022-06-30 11:50:32.947[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:32.967[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:33.960[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B07Z4JY33S
+2022-06-30 11:50:34.821[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:34.832[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:35.573[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B08HCLN57P
+2022-06-30 11:50:36.229[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:36.235[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:38.241[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B092VYR5JY
+2022-06-30 11:50:38.925[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:38.935[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:38.967[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09BZKDGDY
+2022-06-30 11:50:39.838[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:39.849[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:42.164[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09N7JRRN3
+2022-06-30 11:50:42.841[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:42.848[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:42.876[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B0B1DJBJDS
+2022-06-30 11:50:43.749[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:43.758[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:45.773[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B0928HQ3W6
+2022-06-30 11:50:46.487[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:46.493[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:46.929[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B08M8P29X8
+2022-06-30 11:50:47.882[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:47.889[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:49.914[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B01LY8NPG5
+2022-06-30 11:50:50.576[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:50.581[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:51.725[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B091P8YW1B
+2022-06-30 11:50:52.506[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:52.539[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:53.811[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B092VYR5JY
+2022-06-30 11:50:54.669[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:54.675[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:56.433[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09V11VWZQ
+2022-06-30 11:50:57.224[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:57.230[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:50:58.262[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B0B2CM7SDG
+2022-06-30 11:50:59.001[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:50:59.007[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:00.674[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09P88GMLR
+2022-06-30 11:51:01.475[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:01.482[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:01.656[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B08NPSK2HD
+2022-06-30 11:51:02.459[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:02.477[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:04.395[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09NB8NXTB
+2022-06-30 11:51:05.155[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:05.161[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:05.293[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09SSYFJBD
+2022-06-30 11:51:06.114[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:06.122[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:08.184[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B092VFB924
+2022-06-30 11:51:08.879[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:08.885[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:09.339[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] div.s-asin not found.
+2022-06-30 11:51:10.084[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:10.089[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:11.995[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09TZZ8JYH
+2022-06-30 11:51:12.105[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B08VSZ86DM
+2022-06-30 11:51:12.646[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:12.653[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:13.008[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:13.017[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:15.609[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B092VFMQHS
+2022-06-30 11:51:16.240[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:16.246[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:16.440[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09HMBGHTW
+2022-06-30 11:51:17.203[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:17.209[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:19.681[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B08ZH9D592
+2022-06-30 11:51:19.864[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B07PWZDSNC
+2022-06-30 11:51:20.446[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:20.451[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:20.671[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:20.677[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:23.307[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B0932NT5WQ
+2022-06-30 11:51:23.494[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B089M5MSP3
+2022-06-30 11:51:24.022[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:24.028[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:24.347[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:24.355[http-nio-8080-exec-2][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:27.026[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B0872PQWT2
+2022-06-30 11:51:27.400[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09N72ZMM8
+2022-06-30 11:51:27.687[http-nio-8080-exec-2][INFO ][com.mrtn.scraping.service.ScrapingService] --- getGoodsInfo end ---
+2022-06-30 11:51:27.741[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:27.747[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:30.509[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09V11H93Z
+2022-06-30 11:51:31.051[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:31.056[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:33.384[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09PY78HSY
+2022-06-30 11:51:33.914[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:33.919[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:36.648[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09936JMHJ
+2022-06-30 11:51:37.227[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:37.233[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:39.626[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09P898YH2
+2022-06-30 11:51:40.159[Forwarding newSession on session null to remote][INFO ][org.openqa.selenium.remote.ProtocolHandshake] Detected dialect: W3C
+2022-06-30 11:51:40.165[http-nio-8080-exec-3][INFO ][org.openqa.selenium.devtools.CdpVersionFinder] Found exact CDP implementation for version 103
+2022-06-30 11:51:42.968[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] asin=B09HBZJRK7
+2022-06-30 11:51:43.153[http-nio-8080-exec-3][INFO ][com.mrtn.scraping.service.ScrapingService] --- getGoodsInfo end ---

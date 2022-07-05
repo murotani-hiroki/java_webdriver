@@ -1,0 +1,95 @@
+<html>
+<head>
+<style>
+.flex {
+    display: flex;
+}
+.flex div {
+    margin: 5px;
+}
+
+#loading {
+  display: table;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  opacity: 0.8;
+}
+ 
+#loading .loadingMsg {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 140px;
+  background: url("/loading.gif") center center no-repeat;
+}
+
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+$(function() {
+    
+    function download(url) {
+        $('body').append('<div id="loading"><div class="loadingMsg">処理中です・・・</div></div>');
+        $.ajax({
+            url: 'http://localhost:8080/download',
+            type: 'post',
+            data: { url: url },
+        }).done (function(data) {
+            const blob = new Blob([data]);
+            const link = document.createElement('a');
+            link.href = window.URL.createObjectURL(blob);
+            link.setAttribute('download', url + '.csv');
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            /*
+            $('body').append('<a id="downloadLink"></a>');
+            $('#downloadLink').attr('href', window.URL.createObjectURL(blob));
+            $('#downloadLink').attr('download', url + '.csv');
+            $('#downloadLink').click();
+            $('#downloadLink').remove();
+            */
+        }).always(function() {
+            $('#loading').remove();
+        });
+    }
+
+    $('.addBtn').on('click', function() {
+        var $input = $('.input:last');
+        $added = $input.clone(true).insertAfter($input);
+        $added.find('.url').val('');
+    });
+
+    $('.deleteBtn').on('click', function() {
+        $(this).parents('.input').remove();
+    });
+
+    $('#downloadBtn').on('click', function() {
+        $('.url').each(function(){
+            download($(this).val());
+        });
+    });
+
+})
+</script>
+</head>
+<body>
+<h1>商品リスト作成</h1>
+<div id="main">
+    <div class="flex input">
+        <div>URL</div>
+        <div><input type="text" name="url" size="100" class="url"></div>
+        <div><input type="button" value="ー" class="deleteBtn"></div>
+    </div>
+</div>
+
+<div class="flex">
+    <div><input type="button" value="ダウンロード" id="downloadBtn"></div>
+    <div><input type="button" value="＋" class="addBtn"></div>
+</div>
+</body>
+</html>
